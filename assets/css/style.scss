@@ -1,0 +1,34 @@
+---
+# Front matter (these two lines) is required so Jekyll compiles this file.
+---
+
+// Cayman declares these with !default, so setting them before the import
+// re-skins the theme at the source rather than fighting it afterwards.
+$header-bg-color: #004e63;
+$header-bg-color-secondary: #00768f;
+$section-headings-color: #004e63;
+
+@import "{{ site.theme }}";
+
+// Explicit overrides after the import, so the palette holds even if the
+// theme's variable names change in a future GitHub Pages update.
+.page-header {
+  background-color: #004e63;
+  background-image: linear-gradient(120deg, #00768f, #004e63);
+}
+
+.main-content {
+  h1, h2, h3, h4, h5, h6 { color: #004e63; }
+
+  // Version headings carry the Esper Genesis gold as a rule above them.
+  h2 {
+    border-top: 2px solid #d99b13;
+    padding-top: 0.6rem;
+    margin-top: 2rem;
+  }
+
+  a { color: #a8760c; }
+  a:hover { color: #d99b13; }
+
+  table th { background-color: #f2f6f7; }
+}

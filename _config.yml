@@ -1,0 +1,11 @@
+title: Esper Genesis for Foundry VTT
+description: Release notes and documentation for the Esper Genesis modules for Foundry Virtual Tabletop.
+theme: jekyll-theme-cayman
+
+# Skydawn Game Studios
+author: Skydawn Game Studios
+
+# Files that are repository housekeeping, not site content.
+exclude:
+  - README.md
+  - .gitignore
