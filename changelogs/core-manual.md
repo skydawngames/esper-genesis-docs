@@ -6,7 +6,7 @@ permalink: /changelogs/core-manual
 
 Release notes for the **Esper Genesis Core Manual** module.
 
-The current release, 1.1.0, requires Foundry VTT v14 and the dnd5e system
+The current release requires Foundry VTT v14 and the dnd5e system
 (minimum 5.0.0, verified against 5.3.3).
 
 ---
