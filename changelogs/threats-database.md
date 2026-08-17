@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Esper Genesis Threats Database Changelog (Foundry VTT)
+title: Threats Database Changelog (Foundry VTT)
 permalink: /changelogs/threats-database
 ---
 
