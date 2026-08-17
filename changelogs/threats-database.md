@@ -6,8 +6,8 @@ permalink: /changelogs/threats-database
 
 Release notes for the **Esper Genesis Threats Database** module.
 
-The current release, 1.0.2, requires Foundry VTT v14 and the dnd5e system
-(minimum 5.0.0, verified against 5.3.3). As of 1.0.2 the Core Manual is no longer
+The current release requires Foundry VTT v14 and the dnd5e system
+(verified against 5.3.3). As of 1.0.2 the Core Manual is no longer
 required, though the two modules are designed to be used together.
 
 ---
