@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Esper Genesis Core Manual — Changelog
+title: Esper Genesis Core Manual Changelog (Foundry VTT)
 permalink: /changelogs/core-manual
 ---
 
