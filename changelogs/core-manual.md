@@ -11,6 +11,29 @@ The current release requires Foundry VTT v14 and the dnd5e system
 
 ---
 
+## 1.2.0
+
+- Fixed bug where NPC starships could not roll initiative. NPC starship initiative also displays the pilot’s ability modifier when rolled as intended.
+- Armor and shield upgrade properties (from the *Master Technician's Guide*) can now be set on armor. Added the Honed and Reflexive armor properties, and the Concealed and Breach weapon properties.
+- Finesse weapons now use Dexterity on attack rolls as intended.
+- Fixed bug where certain weapon attack activities could not be edited.
+- All equipment items are now priced in cubil instead of gp.
+- Added the Stun Grenade, which was missing from the Equipment compendium.
+- Grenades now marked as Thrown and Special while remaining consumables.
+- Fixed misnamed NPC starship tokens.
+- Restored missing icon to the Esper Powers tab of the PC sheet.
+- A player starship’s AC is now visible in combat and chat cards.
+- Journal styling updated to match Threats Database and MTG. Inline subheads are tinted in dark mode.
+- Importing an NPC starship into a world no longer causes an error during Foundry start-up.
+- Added NPC starship stat block embeds to journal pages.
+- NPC Starship sheet: Fixed missing Action Stations on NPC starship sheet. Fixed listing order of ship features.
+- Split PC starship "Max Payload" field to instead show caps for weapon systems and hardpoints. Added hardpoint features from the *Master Technician's Guide*.
+- Fixed bug on PC ship sheet where optional and propulsion systems doubled on drag and drop.
+- Added type flags to equipment and systems on player starship sheet.
+- Changed main compendium folder name from "Esper Genesis" to “Esper Genesis Core Manual”.
+- Updated book source of all esper powers to “Esper Genesis Core Manual”.
+- Removed unused icons in library folders. These are not intended for distribution with the product.
+
 ## 1.1.0
 
 - Restored display of Esper Genesis skill lists on item sheets. Skills displayed depend on the type of sheet selected (DnD or Esper Genesis).

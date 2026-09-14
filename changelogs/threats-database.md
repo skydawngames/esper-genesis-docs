@@ -12,6 +12,11 @@ required, though the two modules are designed to be used together.
 
 ---
 
+## 1.0.3
+
+- Corrected book source for powers to “Esper Genesis Core Manual”.
+- Typo fixes to various actor stats.
+
 ## 1.0.2
 
 - The Threats Database no longer requires the Esper Genesis Core Manual to be installed. Icons, power links and summoned creatures now point at the module's own independent copies.

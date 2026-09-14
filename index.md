@@ -13,8 +13,9 @@ pages are created to inform on recent changes and updates for each release.
 
 | Module | Current version | Release notes |
 | --- | --- | --- |
-| Esper Genesis Core Manual | 1.1.0 | [Changelog]({{ '/changelogs/core-manual' | relative_url }}) |
-| Esper Genesis Threats Database | 1.0.2 | [Changelog]({{ '/changelogs/threats-database' | relative_url }}) |
+| Esper Genesis Core Manual | 1.2.0 | [Changelog]({{ '/changelogs/core-manual' | relative_url }}) |
+| Esper Genesis Threats Database | 1.0.3 | [Changelog]({{ '/changelogs/threats-database' | relative_url }}) |
+| Esper Genesis Master Technician's Guide | 1.0.0 | [Changelog]({{ '/changelogs/master-technicians-guide' | relative_url }}) |
 
 **Core Manual** contains the full ruleset, including species, classes, backgrounds, feats,
 esper powers, equipment and starships.
@@ -22,9 +23,13 @@ esper powers, equipment and starships.
 **Threats Database** is a standalone product. As of v1.0.2 it no longer requires
 the Core Manual to be installed, though both modules are designed to be used together.
 
+**Master Technician's Guide** is the core game master supplement, with rules for tailoring
+game mechanics, new options for gear and starships, and tools for building locations and
+encounters. It requires the Core Manual, version 1.2.0 or later.
+
 ## Requirements
 
-Both modules currently require v14 of the **Foundry VTT** and the **dnd5e** game system (verified with v5.3.3).
+All three modules currently require v14 of the **Foundry VTT** and the **dnd5e** game system (verified with v5.3.3).
 
 ## Support
 
