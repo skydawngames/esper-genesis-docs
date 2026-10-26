@@ -27,7 +27,7 @@ Guide. Foundry does not update modules automatically, so the Core Manual remains
 at whatever version was installed until updated manually.
 
 Also, make sure your version of Foundry VTT is at least v14 and the dnd5e system is
-a minimum of 5.0.0. The module uses functions using either Rules Version (Legacy 2014 / Modern 2024).
+a minimum of 5.0.0. The module functions correctly regardless of the dnd5e Rules Version (Legacy 2014 / Modern 2024).
 
 ---
 
