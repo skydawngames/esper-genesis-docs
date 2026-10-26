@@ -11,6 +11,24 @@ The current release requires Foundry VTT v14 and the dnd5e system
 also requires the **Esper Genesis Core Manual**, version 1.2.0 or later, which
 provides its linked rules content, actor types and starship sheets.
 
+## Troubleshooting
+
+**"Cannot be enabled due to issues in required dependencies"**
+
+This means the **Esper Genesis Core Manual** is installed but is older than version
+1.2.0. While the Core Manual functions on its own, it is
+an earlier release than this module requires to function. When this occurs, the
+Foundry's module list shows the message: *"This dependency is older than
+the minimum required version 1.2.0."*
+
+To fix it, open **Add-on Modules** on the setup screen, update the **Esper
+Genesis Core Manual** to 1.2.0 or later, then enable the Master Technician's
+Guide. Foundry does not update modules automatically, so the Core Manual remains
+at whatever version was installed until updated manually.
+
+Also, make sure your version of Foundry VTT is at least v14 and the dnd5e system is
+a minimum of 5.0.0. The module uses functions using either Rules Version (Legacy 2014 / Modern 2024).
+
 ---
 
 ## 1.0.0
