@@ -7,9 +7,25 @@ permalink: /changelogs/core-manual
 Release notes for the **Esper Genesis Core Manual** module.
 
 The current release requires Foundry VTT v14 and the dnd5e system
-(minimum 5.0.0, verified against 5.3.3).
+(minimum 5.0.0, verified against 6.0.6).
 
 ---
+
+## 1.2.1
+
+- Fixed an error that prevented player starships from opening for anyone running the Core Manual without the *Master Technician's Guide* active. Ships carrying starship weapons with a hardpoint value keep their hardpoint totals either way.
+- Esper Genesis skill names now appear in the skill choice dropdown during character advancement. Renamed skills are sorted back into alphabetical order.
+- Fixed the player starship sheet displaying the ship's name twice when using dnd5e v6.0.
+- Fixed NPC starship sheets and tokens not opening in dnd5e v6.0.
+- Fixed Effects (PC) and Condition Immunities (NPC) labels in dnd5e v6.0.
+- Fixed the expertise tooltip on NPC starship saving throws.
+- Esper Genesis weapons, armor and tools now display correctly during character advancement.
+- Tool checks using Esper Genesis tools now apply tool proficiency correctly.
+- Fixed Paragon's Imbued Strike number of uses.
+- Fixed Storm Guard's Weapon Surge damage. Also fixed ongoing damage and damage types for Frost Strike and Flame Burst.
+- Corrected number of powers that can be prepared by Engineers and Sentinels. Melder limit now matches the talents known at each level.
+- Fixed duplicate identifier warning for Warrior.
+- Characters created before this version keep their existing copies of these classes and features. Remove and re-add Imbued Strike and Weapon Surge effects to acquire fixes, and update the preparation formula on an existing Engineer, Sentinel or Melder class.
 
 ## 1.2.0
 
