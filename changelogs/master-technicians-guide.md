@@ -7,7 +7,7 @@ permalink: /changelogs/master-technicians-guide
 Release notes for the **Esper Genesis Master Technician's Guide** module.
 
 The current release requires Foundry VTT v14 and the dnd5e system
-(minimum 5.0.0, verified against 5.3.3). Unlike the Threats Database, this module
+(minimum 5.0.0, verified against 6.0.6). Unlike the Threats Database, this module
 also requires the **Esper Genesis Core Manual**, version 1.2.0 or later, which
 provides its linked rules content, actor types and starship sheets.
 
@@ -30,6 +30,12 @@ Also, make sure your version of Foundry VTT is at least v14 and the dnd5e system
 a minimum of 5.0.0. The module functions correctly regardless of the dnd5e Rules Version (Legacy 2014 / Modern 2024).
 
 ---
+
+## 1.0.1
+
+- Fixed the Effects tab label on vehicle sheets in dnd5e v6.0.
+- Clarified dependency/update requirement for Core Manual v1.2.0.
+- Verified with dnd5e v6.0.6.
 
 ## 1.0.0
 
